@@ -1,6 +1,4 @@
-'''
-分块测评函数的书写，输入：原始图像路径，预测标签路径，真实标签路径；输出：pr曲线图片
-'''
+
 import glob
 import os.path as osp
 from pathlib import Path
